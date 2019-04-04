@@ -4,6 +4,7 @@ GUI-Terminal(pronounced "Gooey Terminal") is a Python library for console based 
 ![Ubuntu Server Install Language Selection](https://tutorials.ubuntu.com/es6-bundled/src/codelabs/tutorial-install-ubuntu-server/img/69ae6d8aedc13eb3.png)
 
 ![Ubuntu Server Install User Setup Form](https://tutorials.ubuntu.com/es6-bundled/src/codelabs/tutorial-install-ubuntu-server/img/5deb4ad250eb7630.png)
+[Images from here](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-server)
 
 It will allow for basic layout management, beyond a single column of inputs. My hope is that it will be automatically adaptive to console width and compatible with most, if not all, terminal emulators. It will be built for use on Unix/Linux distrubutions, so PC support will be minimal at best. 
 
